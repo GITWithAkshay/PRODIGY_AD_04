@@ -24,7 +24,7 @@ cd tic-tac-toe-customtkinter
 Install dependencies using:
 
 ```bash
-pip install customtkinter pillow
+pip install -r requirements.txt
 ```
 
 ---
